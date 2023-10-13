@@ -59,6 +59,8 @@ ul {
 .bottom p{
     font-size: 15px;
     color: white;
+    text-align: center;
+    margin-left: 6rem;
 }
 .footer-col h4 {
     font-size: 18px;
